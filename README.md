@@ -1,3 +1,8 @@
+---
+layout: post
+title: README
+---
+
 # recipes
 > Some of our favorite recipes
 
