@@ -1,6 +1,7 @@
 ---
-layout: post
 title:      Chicken Piccata (aka Lemon Chicken)
+permalink:  /chicken-piccata.html
+layout:     post
 cuisine:    Italian
 prep-time:  30 minutes
 serves:     4
