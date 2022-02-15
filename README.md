@@ -3,4 +3,4 @@
 
 ## Main Dishes
 
-[Chicken Piccata](./chicken-piccata)
+[Chicken Piccata](/chicken-piccata)
